@@ -4,9 +4,8 @@
 ┌[pranavJain@git]-(~)
 └> mefetch
 ```
- 
 
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" border="1" style="width:240px;height:170px">
   
   ```css
   PrnvJain@GitHub
