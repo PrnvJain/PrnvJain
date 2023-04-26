@@ -15,7 +15,7 @@
   Languages: ["Python", "C","C++", "Java"]
   Intrests: ["Data Science", "Blockchain"]  
   Uptime: 20 Years
-  I make bad jokes sometimes
+  Sometimes I make bad jokes
   ```
 </div>
 
