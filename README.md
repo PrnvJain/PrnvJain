@@ -12,7 +12,7 @@
   -----------------
   Name: Pranav
   OS: Windows 10
-  Languages: ["Python", "C","C++", "Java"]
+  Languages: ["Java", "C","Python", "C++"]
   Intrests: ["Data Science", "Blockchain"]  
   Uptime: 20 Years
   Sometimes I make bad jokes
