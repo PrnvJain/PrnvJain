@@ -14,8 +14,8 @@
   OS: Windows 10
   Languages: ["Java", "C","Python", "C++"]
   Intrests: ["Data Science", "Blockchain"]  
-  Uptime: 20 Years
-  Sometimes I make bad jokes
+  Uptime: 21 Years
+  
   ```
 </div>
 
