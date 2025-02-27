@@ -14,7 +14,7 @@
   OS: Windows 10
   Languages: ["Java", "C","Python", "C++"]
   Intrests: ["Data Science", "Blockchain"]  
-  Uptime: 21 Years
+  Uptime: 22 Years
   
   ```
 </div>
