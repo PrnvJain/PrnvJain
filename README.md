@@ -11,7 +11,7 @@
   PrnvJain@GitHub
   -----------------
   Name: Pranav
-  OS: Windows 10
+  OS: Windows 11
   Languages: ["Java", "C","Python", "C++"]
   Intrests: ["Data Science", "Blockchain"]  
   Uptime: 22 Years
