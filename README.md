@@ -26,5 +26,6 @@
   <samp>
     <a href="https://twitter.com/CalmFUK" target="_blank">twitter</a> .
     <a href="https://discordapp.com/users/567301799875313674" target="_blank">discord</a> .
+    <a href="https://prnvjain.vercel.app/" target="_blank">Site</a> .
   </samp>
 </p>
