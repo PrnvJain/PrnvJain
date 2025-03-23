@@ -25,7 +25,7 @@
 <p align="center">
   <samp>
     . <a href="https://twitter.com/CalmFUK" target="_blank">twitter</a> .
-    <a href="https://discordapp.com/users/567301799875313674" target="_blank">discord</a> .
+    <a href="mailto:p4pranavjain75@gmail.com" target="_blank">Email</a> .
     <a href="https://pranavjain.vercel.app/" target="_blank">@Me</a> .
   </samp>
 </p>
