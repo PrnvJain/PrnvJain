@@ -1,7 +1,7 @@
 
 
 ```css
-┌[pranavJain@git]-(~)
+┌[📂pranavJain@git]-(~)
 └> mefetch
 ```
 
@@ -12,7 +12,7 @@
   -----------------
   Name: Pranav
   OS: Windows 11
-  Languages: ["Java", "C","Python", "C++"]
+  Languages: ["Java", "Python", "C", "C++"]
   Intrests: ["Data Science", "Blockchain"]  
   Uptime: 22 Years
   
