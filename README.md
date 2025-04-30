@@ -13,7 +13,7 @@
   Name: Pranav
   OS: Windows 11
   Languages: ["Java", "Python", "C", "C++"]
-  Intrests: ["Data Science", "Blockchain"]  
+  Intrests: ["AI/ML", "Software Development"]  
   Uptime: 22 Years
   
   ```
