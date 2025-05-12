@@ -27,5 +27,6 @@
     . <a href="https://twitter.com/CalmFUK" target="_blank">twitter</a> .
     <a href="mailto:p4pranavjain75@gmail.com" target="_blank">Email</a> .
     <a href="https://pranavjain.vercel.app/" target="_blank">@Me</a> .
+    <a href="https://prnvjain.vercel.app/" target="_blank">Vault</a> .
   </samp>
 </p>
